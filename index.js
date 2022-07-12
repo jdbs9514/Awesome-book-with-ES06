@@ -12,7 +12,7 @@ let newBook;
 let dataBase = [];
 
 // create the date //
-dateTime.innerHTML = DateTime.now();
+dateTime.innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
 
 class Book {
   constructor(title, author) {
