@@ -2,6 +2,7 @@
 
 ## Awesome-book-with-ES06
 Hello today i'm gonna show you how to implement the modules with ES6 with constants.
+this is my basic mode to do this.
 
 ## Description
 
@@ -16,6 +17,7 @@ clone this repo: https://github.com/jdbs9514/Awesome-book-with-ES06.git
 - HTML
 - CSS
 - javaScript
+- EC6
 
 ## Author
 
